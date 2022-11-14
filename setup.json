@@ -1,9 +1,8 @@
 [
 	{
 		"id": 115,
-		"use_standard_fields": false,
-		"module_name": {
-			"value": "Kanopi API Status Monitor"
-		}
+		"type": "module",
+		"name": "Kanopi API Status Monitor",
+		"use_standard_fields": false
 	}
 ]
